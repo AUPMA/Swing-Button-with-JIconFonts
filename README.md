@@ -6,7 +6,7 @@ Java Swing JButton Extended Button with All JIconFont Icons (w/Prop Editer Suppo
   - Change Icon Color & Size
   - Change Cursor
   - Mouse Enter Color Change Effect (w/Dark & Light Mode Toggle)
-  - 
+  
 
 ## Icon Fonts (by JIconFonts)
 
