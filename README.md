@@ -34,5 +34,5 @@ License
 MIT
 
 
-**AUPMA**
+*--byAUPMA--*
 
